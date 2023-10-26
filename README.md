@@ -1,3 +1,4 @@
 
-onecloud
-openclash
+#onecloud
+luci-app-adguardhome
+luci-app-openclash
